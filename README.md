@@ -1,4 +1,4 @@
-# Hello There! 你好！
+# Hi There!
 
 ![](https://media.giphy.com/media/3oEduZtPOv5OSecubu/giphy.gif)
 
