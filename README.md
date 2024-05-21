@@ -4,7 +4,7 @@
 
 You are the ![Visitor Count](https://profile-counter.glitch.me/mosms-me/count.svg) visitor here! Welcome!
 
-## Who AM I?
+# Who AM I?
 
 I'm Bo Fu(付博) from [**Nanjing University**](https://www.nju.edu.cn/en/), now I'm major in **Computer Science**.
 
