@@ -1,6 +1,6 @@
 # Hi There!
 
-![](https://giphy.com/gifs/cbs-big-bang-theory-xUOxfcveHmoOpeM1y0)
+![](https://media.giphy.com/media/xUOxfcveHmoOpeM1y0/giphy.gif)
 
 You are the ![Visitor Count](https://profile-counter.glitch.me/mosms-me/count.svg) visitor here! Welcome!
 
